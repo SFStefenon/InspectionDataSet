@@ -1,6 +1,6 @@
 **Inspection of Electrical Power Distribution Grid**
 
-We present photographs of inspections of the distribution power network carried out in southern Brazil.
+We present photographs of inspections of the electrical distribution power network carried out in southern Brazil.
 The inspections were performed close to the city of Blumenau by researchers from the high voltage laboratory, Regional University of Blumenau (FURB).
 
 240 photographs of the electrical power network are presented: 
