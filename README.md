@@ -13,5 +13,3 @@ Among the problems found in the distribution network, the following stand out:
 * Contaminated crosshead.
 * Birds' nests on the crosshead.
 * Fungi strongly attached to the structure. 
-
-git branch -M main
