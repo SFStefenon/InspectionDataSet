@@ -49,8 +49,8 @@ TITLE = {Electricity Price Forecasting Based on Self-Adaptive Decomposition and 
 JOURNAL = {Energies}, VOLUME = {13}, YEAR = {2020}, NUMBER = {19}, pages= {5190}, doi = {10.3390/en13195190},}  
 
 @article{ste11,  
-title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound},  
 author={Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Bruns, Rafael and Nied, A. and Seman, L. O. and Gonzalez, G. V. and Leithardt, V. R. Q. and Yow, K. C.}, 
+title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound},  
 journal={Applied Sciences},  volume={11},  number={4},  pages={1592},  year={2021}, doi={10.3390/app11041592},}
 
 @article{ste12,  
@@ -59,8 +59,8 @@ title={Fault detection in insulators based on ultrasonic signal processing using
 journal={IET Science, Measurement \& Technology},  volume={14},  number={10}, pages={953--961},  year={2020},  doi={10.1049/iet-smt.2020.0083}}
 
 @ARTICLE{ste13, 
-title={Hybrid Wavelet Stacking Ensemble Model for Insulators Contamination Forecasting},   
 author={Stefenon, S. F. and Ribeiro, M. H. D. M. and Nied, A. and Mariani, V. C. and Coelho, L. S. and Leithardt, V. R. Q. and Silva, L. A. and Seman, L. O.},  
+title={Hybrid Wavelet Stacking Ensemble Model for Insulators Contamination Forecasting},   
 journal={IEEE Access}, year={2021},  volume={9},  number={},  pages={66387-66397}, doi={10.1109/ACCESS.2021.3076410}}
   
 @article{ste14, 
