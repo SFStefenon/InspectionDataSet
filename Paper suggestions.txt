@@ -49,7 +49,7 @@ TITLE = {Electricity Price Forecasting Based on Self-Adaptive Decomposition and 
 JOURNAL = {Energies}, VOLUME = {13}, YEAR = {2020}, NUMBER = {19}, pages= {5190}, doi = {10.3390/en13195190},}  
 
 @article{ste11,  
-author={Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Bruns, Rafael and Nied, A. and Seman, L. O. and Gonzalez, G. V. and Leithardt, V. R. Q. and Yow, K. C.}, 
+author={Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Bruns, R. and Nied, A. and Seman, L. O. and Gonzalez, G. V. and Leithardt, V. R. Q. and Yow, K. C.}, 
 title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound},  
 journal={Applied Sciences},  volume={11},  number={4},  pages={1592},  year={2021}, doi={10.3390/app11041592},}
 
@@ -68,6 +68,17 @@ author = {S. F. Stefenon and L. O. Seman and N. F. {Sopelsa Neto} and L. H. Meye
 title = {Echo state network applied for classification of medium voltage insulators}, 
 journal = {International Journal of Electrical Power \& Energy Systems}, volume = {134}, pages = {107336}, year = {2022}, doi = {10.1016/j.ijepes.2021.107336}}
   
-@Article{ste15, AUTHOR = {Corso, Marcelo Picolotto and Perez, Fabio Luis and Stefenon, Stéfano Frizzo and Yow, Kin-Choong and García Ovejero, Raúl and Leithardt, Valderi Reis Quietinho}, TITLE = {Classification of Contaminated Insulators Using k-Nearest Neighbors Based on Computer Vision}, JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}
+@Article{ste15, 
+AUTHOR = {Corso, M. P. and Perez, F. L. and Stefenon, S. F. and Yow, K.-C. and Ovejero, R. G. and Leithardt, V. R. Q.}, 
+TITLE = {Classification of Contaminated Insulators Using k-Nearest Neighbors Based on Computer Vision}, 
+JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}
 
-@article{ste16,  author={Stefenon, St{\'e}fano Frizzo and Neto, Clodoaldo Schutel Furtado and Coelho, Thiago Spindola and Nied, Ademir and Yamaguchi, Cristina Keiko and Yow, Kin-Choong}, title={Particle swarm optimization for design of insulators of distribution power system based on finite element method},  journal={Electrical Engineering},  pages={1--8},  year={2021},  publisher={Springer}, doi = {10.1007/s00202-021-01332-3}}
+@article{ste16,  
+author={Stefenon, S. F. and Furtado Neto, C. S. and Coelho, T. S. and Nied, A. and Yamaguchi, C. K. and Yow, K.-C.}, 
+title={Particle swarm optimization for design of insulators of distribution power system based on finite element method},  
+journal={Electrical Engineering},  pages={1--8},  year={2021},  publisher={Springer}, doi = {10.1007/s00202-021-01332-3}}
+
+@article{https://doi.org/10.1049/gtd2.12425,
+author = {Stefenon, S. F. and Seman, L. O. and Pavan, B. A. and Ovejero, R. G. and Leithardt, V. R. Q.},
+title = {Optimal design of electrical power distribution grid spacers using finite element method},
+journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number = {9}, pages = {1865-1876}, doi = {10.1049/gtd2.12425}, year = {2022}}
