@@ -60,11 +60,13 @@ JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}
 
 @article{ste13, 
 author = {Stefenon, S. F. and Corso, M. P. and Nied, A. and Perez, F. L. and Yow, K.-C. and Gonzalez, G. V. and Leithardt, V. R. Q.}, 
-title = {Classification of insulators using neural network based on computer vision}, journal = {IET Generation, Transmission \& Distribution}, volume={16}, number={6}, pages={1096-1107}, doi = {10.1049/gtd2.12353}, year={2021}}
+title = {Classification of insulators using neural network based on computer vision}, 
+journal = {IET Generation, Transmission \& Distribution}, volume={16}, number={6}, pages={1096-1107}, doi = {10.1049/gtd2.12353}, year={2021}}
 
 @article{ste14,  
 author={Stefenon, S. F. and Furtado Neto, C. S. and Coelho, T. S. and Nied, A. and Yamaguchi, C. K. and Yow, K.-C.},
-title={Particle swarm optimization for design of insulators of distribution power system based on finite element method}, journal={Electrical Engineering},  volume={104},  pages={615–622},  year={2022},  publisher={Springer}, doi={10.1007/s00202-021-01332-3}}
+title={Particle swarm optimization for design of insulators of distribution power system based on finite element method}, 
+journal={Electrical Engineering},  volume={104},  pages={615–622},  year={2022},  publisher={Springer}, doi={10.1007/s00202-021-01332-3}}
 
 @article{ste15,
 author = {Stefenon, S. F. and Seman, L. O. and Pavan, B. A. and Ovejero, R. G. and Leithardt, V. R. Q.},
@@ -73,15 +75,18 @@ journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number 
 
 @article{ste16, 
 author={Medeiros, A. and Sartori, A. and Stefenon, S. F. and Meyer, L. H. and Nied, A.}, 
-title={Comparison of artificial intelligence techniques to failure prediction in contaminated insulators based on leakage current}, DOI={10.3233/JIFS-211126}, journal={Journal of Intelligent \& Fuzzy Systems}, year={2022}, volume={42}, number={4}, pages={3285-3298},}
+title={Comparison of artificial intelligence techniques to failure prediction in contaminated insulators based on leakage current}, 
+journal={Journal of Intelligent \& Fuzzy Systems}, year={2022}, volume={42}, number={4}, pages={3285-3298}, DOI={10.3233/JIFS-211126},}
 
 @ARTICLE{ste17,  
 author={Stefenon, S. F. and Bruns, R. and Sartori, A. and Meyer, L. H. and Ovejero, R. G. and Leithardt, V. R. Q.},
-journal={IEEE Access}, title={Analysis of the Ultrasonic Signal in Polymeric Contaminated Insulators Through Ensemble Learning Methods},   year={2022},  volume={10},  number={},  pages={33980-33991},  doi={10.1109/ACCESS.2022.3161506}}
+title={Analysis of the Ultrasonic Signal in Polymeric Contaminated Insulators Through Ensemble Learning Methods},   
+journal={IEEE Access}, year={2022}, volume={10}, number={}, pages={33980-33991},  doi={10.1109/ACCESS.2022.3161506}}
 
 @Article{ste18, 
 AUTHOR = {Stefenon, S. F. and Singh, G. and Yow,  K.-C. and Cimatti, A.}, 
-TITLE = {Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, pages = {4859}, DOI = {10.3390/s22134859}}
+TITLE = {Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures}, 
+JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, pages = {4859}, DOI = {10.3390/s22134859}}
 
 @article{ste19, 
 author = {S. F. Stefenon and L. O. Seman and N. F. {Sopelsa Neto} and L. H. Meyer and A. Nied and K. C. Yow},
