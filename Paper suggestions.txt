@@ -82,3 +82,5 @@ journal={Electrical Engineering},  pages={1--8},  year={2021},  publisher={Sprin
 author = {Stefenon, S. F. and Seman, L. O. and Pavan, B. A. and Ovejero, R. G. and Leithardt, V. R. Q.},
 title = {Optimal design of electrical power distribution grid spacers using finite element method},
 journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number = {9}, pages = {1865-1876}, doi = {10.1049/gtd2.12425}, year = {2022}}
+
+@ARTICLE{s1,  author={Stefenon, Stéfano Frizzo and Bruns, Rafael and Sartori, Andreza and Meyer, Luiz Henrique and Ovejero, Raúl García and Leithardt, Valderi Reis Quietinho},  journal={IEEE Access},   title={Analysis of the Ultrasonic Signal in Polymeric Contaminated Insulators Through Ensemble Learning Methods},   year={2022},  volume={10},  number={},  pages={33980-33991},  doi={10.1109/ACCESS.2022.3161506}}
