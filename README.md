@@ -20,7 +20,6 @@ The structure of the dataset for YOLOv6 is **(images/train, images/val, labels/t
 To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call this files only using YOLOv5 as the latest models require the split manually performed.
 
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
-
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
 
 Thank you.
