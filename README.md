@@ -18,7 +18,7 @@ This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision 
 
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
 
-OBS: For benchmark comparisons, the structure for YOLOv5 or YOLOv7 is **(valid/images, valid/labels, train/images, train/labels)**.
+OBS: For benchmark comparisons, the structure of the dataset for YOLOv5 or YOLOv7 is **(valid/images, valid/labels, train/images, train/labels)**.
 The structure for YOLOv6 is **(images/train, images/val, labels/train, labels/val)**.
 
 To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call this file only for YOLOv5 as the latest models require the split manually performed.
