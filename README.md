@@ -16,4 +16,4 @@ Among the problems found in the distribution network, the following stand out:
 
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
 
-The annotations were performed by xxx under the supervision of Dr. Laio Oriel Seman.
+The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
