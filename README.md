@@ -15,4 +15,5 @@ Among the problems found in the distribution network, the following stand out:
 * Fungi strongly attached to the structure. 
 
 This dataset was created by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
-The annotation was performed by xxx under the supervision of Dr. Laio Oriel Seman.
+
+The annotations were performed by xxx under the supervision of Dr. Laio Oriel Seman.
