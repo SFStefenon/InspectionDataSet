@@ -101,4 +101,4 @@ JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {16}, pages = {6121}
 @Article{ste21,
 AUTHOR = {Stefenon, S. F. and Yow, K.-C. and Nied, A. and Meyer, L. H.},
 TITLE = {Classification of distribution power grid structures using inception v3 deep neural network},
-JOURNAL = {Electrical Engineering}, VOLUME = {pre-print}, YEAR = {2022}, NUMBER = {}, pages = {1-13}, DOI = {10.1007/s00202-022-01641-1}}
+JOURNAL = {Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, publisher={Springer}, doi={10.1007/s00202-022-01641-1}}
