@@ -27,6 +27,7 @@ Evaluations using this database can be found at:
 
 BibTeX:
 `@Article{s22134859, AUTHOR = {Stefenon, S. F. and Singh, G. and Yow,  K.-C. and Cimatti, A.}, TITLE = {{Semi-ProtoPNet} deep neural network for the classification of defective power grid distribution structures	}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, pages = {4859}, DOI = {10.3390/s22134859}}`
+
 ---
 
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
