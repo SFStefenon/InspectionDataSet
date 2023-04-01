@@ -19,6 +19,16 @@ The structure of the dataset for **YOLOv6** is (images/train, images/val, labels
 
 To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call this files only using YOLOv5 as the latest models require the split manually performed.
 
+---
+
+Evaluations using this database can be found at:
+
+**[Semi-ProtoPNet](https://doi.org/10.3390/s22134859)**.
+
+BibTeX:
+`@Article{s22134859, AUTHOR = {Stefenon, S. F. and Singh, G. and Yow,  K.-C. and Cimatti, A.}, TITLE = {{Semi-ProtoPNet} deep neural network for the classification of defective power grid distribution structures	}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, pages = {4859}, DOI = {10.3390/s22134859}}`
+---
+
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
 
