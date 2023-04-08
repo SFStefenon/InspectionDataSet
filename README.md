@@ -29,7 +29,7 @@ BibTeX:
 `@Article{stefe00202, TITLE = {Classification of distribution power grid structures using inception v3 deep neural network}, AUTHOR = {Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, JOURNAL = {Electrical Engineering}, VOLUME = {104}, YEAR = {2022}, PAGES = {4557–4569}, DOI = {10.1007/s00202-022-01641-1}}`
 
 BibTeX:
-`@Article{s22134859, TITLE = {Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures}, AUTHOR = {Stefenon, Stefano Frizzo and Singh, Gurmail and Yow, Kin-Choong and Cimatti, Alessandro}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, PAGES = {4859}, DOI = {10.3390/s22134859}}`
+`@Article{s22134859, TITLE = {{Semi-ProtoPNet} Deep Neural Network for the Classification of Defective Power Grid Distribution Structures}, AUTHOR = {Stefenon, Stefano Frizzo and Singh, Gurmail and Yow, Kin-Choong and Cimatti, Alessandro}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, PAGES = {4859}, DOI = {10.3390/s22134859}}`
 
 ---
 
