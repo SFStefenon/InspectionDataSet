@@ -13,7 +13,7 @@ Among the problems found in the distribution network, the following stand out:
 * Birds' nests on the crosshead.
 * Fungi strongly attached to the structure. 
 
-OBS: For benchmark comparisons, the structure of the dataset for **YOLOv5** or **YOLOv7** is (valid/images, valid/labels, train/images, train/labels)**.
+OBS: For benchmark comparisons, the structure of the dataset for **YOLOv5** or **YOLOv7** is (valid/images, valid/labels, train/images, train/labels).
 The structure of the dataset for **YOLOv6** is (images/train, images/val, labels/train, labels/val).
 
 To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call this files only using YOLOv5 as the latest models require the split manually performed.
