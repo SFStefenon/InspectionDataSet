@@ -1,7 +1,6 @@
 **Inspection of Electrical Power Distribution Grid**
 
-We present photographs of inspections of the electrical power network (13.8 kV) carried out in southern Brazil.
-The inspections were performed close to the city of Blumenau by researchers from the high voltage laboratory, Regional University of Blumenau (FURB). 
+We present photographs of inspections of the electrical power network (13.8 kV) carried out in southern Brazil. The inspections were performed close to the city of Blumenau by researchers from the high voltage laboratory, Regional University of Blumenau (FURB). 
 
 240 photographs of the electrical power network are presented:  
 120 are of damaged structures and/or components.  
@@ -25,3 +24,15 @@ The annotations were performed by Guilherme Veiga Santos Pinto under the supervi
 Thank you.
 
 Dr. Stefano Frizzo Stefenon
+
+---
+
+Additional information can be found at the **[Original Paper](https://doi.org/10.1016/j.energy.2023.127350)**.
+
+BibTeX:
+`@Article{Preprint, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Aquino, Luiza Scapinello and Coelho, Leandro dos Santos}, TITLE = {{Wavelet-Seq2Seq-LSTM} with attention for time series forecasting of level of dams in hydroelectric power plants}, JOURNAL = {Energy}, VOLUME = {274}, YEAR = {2023}, PAGES = {127350}, DOI = {10.1016/j.energy.2023.127350}}`
+
+---
+Wrote by Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
+
+Trento, Italy, March 10, 2023.
