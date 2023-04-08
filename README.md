@@ -35,4 +35,4 @@ BibTeX:
 
 Thank you.
 
-Dr. Stefano Frizzo Stefenon
+Dr. **Stefano Frizzo Stefenon**
