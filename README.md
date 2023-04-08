@@ -23,7 +23,7 @@ The annotations were performed by Guilherme Veiga Santos Pinto under the supervi
 
 ---
 
-Additional information can be found at the **Original [Paper](https://doi.org/10.1007/s00202-022-01641-1)** and **[Paper](https://doi.org/10.3390/s22134859)**.
+Additional information can be found at the **Original [Paper 1](https://doi.org/10.1007/s00202-022-01641-1)** and **[Paper 2](https://doi.org/10.3390/s22134859)**.
 
 BibTeX:
 `@Article{stefe00202, TITLE = {Classification of distribution power grid structures using inception v3 deep neural network}, AUTHOR = {Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, JOURNAL = {Electrical Engineering}, VOLUME = {104}, YEAR = {2022}, PAGES = {4557–4569}, DOI = {10.1007/s00202-022-01641-1}}`
