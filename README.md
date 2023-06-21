@@ -16,7 +16,7 @@ Among the problems found in the distribution network, the following stand out:
 OBS: For benchmark comparisons, the structure of the dataset for **YOLOv5** or **YOLOv7** is (valid/images, valid/labels, train/images, train/labels).
 The structure of the dataset for **YOLOv6** is (images/train, images/val, labels/train, labels/val).
 
-To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call this files only using YOLOv5 as the latest models require the split manually performed.
+To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call these files only using YOLOv5 as the latest models require the split manually performed.
 
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
@@ -28,3 +28,5 @@ The annotations were performed by Guilherme Veiga Santos Pinto under the supervi
 Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
+
+Trento, Italy, June 10, 2023.
