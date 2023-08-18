@@ -27,7 +27,7 @@ Additional information can be found in the Original Paper:
 
 *Hypertuned-YOLO for Interpretable Distribution Power Grid Fault Location based on EigenCAM*
 
-**Under review**.
+(**Under review**)
 
 ---
 
