@@ -21,7 +21,9 @@ To compare the results with our research you can follow the split of the data of
 This dataset was organized by Dr. Stefano Frizzo Stefenon under the supervision of Dr. Luiz Henrique Meyer.
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
 
+---
 
+Hypertuned-YOLO for Interpretable Distribution Power Grid Fault Location based on EigenCAM
 
 ---
 
