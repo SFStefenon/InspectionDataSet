@@ -23,14 +23,6 @@ The annotations were performed by Guilherme Veiga Santos Pinto under the supervi
 
 ---
 
-Additional information can be found in the Original Paper:
-
-*Hypertuned-YOLO for Interpretable Distribution Power Grid Fault Location based on EigenCAM*
-
-(**Under review**)
-
----
-
 Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
