@@ -28,7 +28,7 @@ Additional information can be found at the **[Original Paper](https://doi.org/10
 Stefenon, S. F., Yow, K. C., Nied, A., Meyer, L. M., Classification of distribution power grid structures using inception v3 deep neural network, Electrical Engineering, vol. 104, no. 6, pp. 4557-4569, 2022.
 
 BibTeX:
-`@article{stefenon37, title={Classification of distribution power grid structures using inception v3 deep neural network}, author={Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, journal={Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, publisher={Springer}, doi={10.1007/s00202-022-01641-1}}`
+`@article{stefenon37, title={Classification of distribution power grid structures using inception v3 deep neural network}, author={Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, journal={Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, doi={10.1007/s00202-022-01641-1}}`
 
 ---
 
