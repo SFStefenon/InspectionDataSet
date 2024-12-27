@@ -30,9 +30,10 @@ Stefenon, S. F., Yow, K. C., Nied, A., Meyer, L. M., Classification of distribut
 Stefenon, S. F., Seman, L. O., Klaar, A. C. R., Ovejero, R. G., Leithardt, V. R. Q. Hypertuned-YOLO for interpretable distribution power grid fault location based on EigenCAM, Ain Shams Engineering Journal, vol. 15, no. 6, p. 102722, 2024.
 
 BibTeX:
-`@article{STEFENON_01641, title={Classification of distribution power grid structures using inception v3 deep neural network}, author={Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, journal={Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, doi={10.1007/s00202-022-01641-1}}
 
-@article{STEFENON_102722, author = {Stefano Frizzo Stefenon and Laio Oriel Seman and Anne Carolina Rodrigues Klaar and Raúl García Ovejero and Valderi Reis Quietinho Leithardt}, title = {{Hypertuned-YOLO for interpretable distribution power grid fault location based on EigenCAM}}, journal = {Ain Shams Engineering Journal}, volume={15}, number={6}, pages = {102722}, year = {2024}, doi = {10.1016/j.asej.2024.102722}}`
+`@article{STEFENON_01641, title={Classification of distribution power grid structures using inception v3 deep neural network}, author={Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, journal={Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, doi={10.1007/s00202-022-01641-1}}`
+
+`@article{STEFENON_102722, author = {Stefano Frizzo Stefenon and Laio Oriel Seman and Anne Carolina Rodrigues Klaar and Raúl García Ovejero and Valderi Reis Quietinho Leithardt}, title = {{Hypertuned-YOLO for interpretable distribution power grid fault location based on EigenCAM}}, journal = {Ain Shams Engineering Journal}, volume={15}, number={6}, pages = {102722}, year = {2024}, doi = {10.1016/j.asej.2024.102722}}`
 
 ---
 
