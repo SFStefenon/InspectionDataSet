@@ -16,10 +16,19 @@ Among the problems found in the distribution network, the following stand out:
 OBS: For benchmark comparisons, the structure of the dataset for **YOLOv5** or **YOLOv7** is (valid/images, valid/labels, train/images, train/labels).
 The structure of the dataset for **YOLOv6** is (images/train, images/val, labels/train, labels/val).
 
-To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call these files only using YOLOv5 as the latest models require the split manually performed.
+To compare the results with our research you can follow the split of the data of the (train.txt and val.txt) files. You can call these files only using YOLOv5 as the latest models require the split to be manually performed.
 
 This dataset was built and organized by Dr. Stefano Frizzo Stefenon and Dr. Luiz Henrique Meyer.
 The annotations were performed by Guilherme Veiga Santos Pinto under the supervision of Dr. Laio Oriel Seman.
+
+---
+
+Additional information can be found at the **[Original Paper](https://doi.org/10.1007/s00202-022-01641-1)**.
+
+Stefenon, S. F., Yow, K. C., Nied, A., Meyer, L. M., Classification of distribution power grid structures using inception v3 deep neural network, Electrical Engineering, vol. 104, no. 6, pp. 4557-4569, 2022.
+
+BibTeX:
+`@article{stefenon37, title={Classification of distribution power grid structures using inception v3 deep neural network}, author={Stefenon, Stefano Frizzo and Yow, Kin-Choong and Nied, Ademir and Meyer, Luiz Henrique}, journal={Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, publisher={Springer}, doi={10.1007/s00202-022-01641-1}}`
 
 ---
 
